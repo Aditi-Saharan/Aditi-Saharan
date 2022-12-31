@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aditi-Saharan
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on amazing data science projects
+- 👀 I’m interested in Data Analysis 
+- 🌱 I’m proficient in Python and SQL
+- 💞️ I’m looking to collaborate on data analysis projects
 - 📫 Connect with me on LinkedIn - https://www.linkedin.com/in/aditi-saharan-6a89b0212/
 
 <!---
